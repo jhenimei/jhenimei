@@ -1,15 +1,12 @@
-## Hi there, stellar people! 👋💫
+## Hiya, stellar people! 👋💫
 
-🔭 I’m a student at ASU majoring in Web Development and earning a certificate in Media, Arts, and Sciences.<br>
-🎨 I like creating all sorts of interactive websites and web apps, especially ones with databases.<br>
-👀 Funfact(s): I like astronomy and cheesecake! And I have a stuffed fox named cheese.<br>
-⚒️ Sidenote: I'm in the process of uploading and moving all my previous work from https://github.com/kofhi to this account. Check back soon!
+I'm <b>Jhenica</b>, a web development student who enjoys organizing information and strengthening connections through programming interactive and accessible web sites and applications. <i>Like piecing together stars to make constellations!</i> 
 
+🔭 If I haven't made it obvious enough, outside of coding, I also enjoy learning about astronomy, particularly stars and galaxies. Crafting, crochet, and collecting trinkets and stuffed animals are also some of my other hobbies. 
 
-### 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/kodestellations/) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/jhenimei) 
+⚒️ <i>Some old projects have been recreated in this account from an old profile. Working on getting everything here!</i>
 
-### 💻 Tech Stack:
+### 💻 My Current Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
@@ -30,11 +27,7 @@
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 
-![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) 
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) 
-![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) 
-
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jhenimei&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 📊 Coding Stats
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jhenimei&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
